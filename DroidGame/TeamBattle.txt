@@ -1,0 +1,121 @@
+				Round 1
+Your team health : 195 Get damage : 5
+Enemy team health : 390 Get damage : 10
+				Round 2
+Your team health : 190 Get damage : 5
+Enemy team health : 380 Get damage : 10
+				Round 3
+Your team health : 185 Get damage : 5
+Enemy team health : 370 Get damage : 10
+				Round 4
+Your team health : 180 Get damage : 5
+Enemy team health : 360 Get damage : 10
+				Round 5
+Your team health : 175 Get damage : 5
+Enemy team health : 350 Get damage : 10
+				Round 6
+Your team health : 170 Get damage : 5
+Enemy team health : 340 Get damage : 10
+				Round 7
+Your team health : 165 Get damage : 5
+Enemy team health : 330 Get damage : 10
+				Round 8
+Your team health : 160 Get damage : 5
+Enemy team health : 320 Get damage : 10
+				Round 9
+Your team health : 155 Get damage : 5
+Enemy team health : 310 Get damage : 10
+				Round 10
+Your team health : 150 Get damage : 5
+Enemy team health : 300 Get damage : 10
+				Round 11
+Your team health : 145 Get damage : 5
+Enemy team health : 290 Get damage : 10
+				Round 12
+Your team health : 140 Get damage : 5
+Enemy team health : 280 Get damage : 10
+				Round 13
+Your team health : 135 Get damage : 5
+Enemy team health : 270 Get damage : 10
+				Round 14
+Your team health : 130 Get damage : 5
+Enemy team health : 260 Get damage : 10
+				Round 15
+Your team health : 125 Get damage : 5
+Enemy team health : 250 Get damage : 10
+				Round 16
+Your team health : 120 Get damage : 5
+Enemy team health : 240 Get damage : 10
+				Round 17
+Your team health : 115 Get damage : 5
+Enemy team health : 230 Get damage : 10
+				Round 18
+Your team health : 110 Get damage : 5
+Enemy team health : 220 Get damage : 10
+				Round 19
+Your team health : 105 Get damage : 5
+Enemy team health : 210 Get damage : 10
+				Round 20
+Your team health : 100 Get damage : 5
+Enemy team health : 200 Get damage : 10
+				Round 21
+Your team health : 95 Get damage : 5
+Enemy team health : 190 Get damage : 10
+				Round 22
+Your team health : 90 Get damage : 5
+Enemy team health : 180 Get damage : 10
+				Round 23
+Your team health : 85 Get damage : 5
+Enemy team health : 170 Get damage : 10
+				Round 24
+Your team health : 80 Get damage : 5
+Enemy team health : 160 Get damage : 10
+				Round 25
+Your team health : 75 Get damage : 5
+Enemy team health : 150 Get damage : 10
+				Round 26
+Your team health : 70 Get damage : 5
+Enemy team health : 140 Get damage : 10
+				Round 27
+Your team health : 65 Get damage : 5
+Enemy team health : 130 Get damage : 10
+				Round 28
+Your team health : 60 Get damage : 5
+Enemy team health : 120 Get damage : 10
+				Round 29
+Your team health : 55 Get damage : 5
+Enemy team health : 110 Get damage : 10
+				Round 30
+Your team health : 50 Get damage : 5
+Enemy team health : 100 Get damage : 10
+				Round 31
+Your team health : 45 Get damage : 5
+Enemy team health : 90 Get damage : 10
+				Round 32
+Your team health : 40 Get damage : 5
+Enemy team health : 80 Get damage : 10
+				Round 33
+Your team health : 35 Get damage : 5
+Enemy team health : 70 Get damage : 10
+				Round 34
+Your team health : 30 Get damage : 5
+Enemy team health : 60 Get damage : 10
+				Round 35
+Your team health : 25 Get damage : 5
+Enemy team health : 50 Get damage : 10
+				Round 36
+Your team health : 20 Get damage : 5
+Enemy team health : 40 Get damage : 10
+				Round 37
+Your team health : 15 Get damage : 5
+Enemy team health : 30 Get damage : 10
+				Round 38
+Your team health : 10 Get damage : 5
+Enemy team health : 20 Get damage : 10
+				Round 39
+Your team health : 5 Get damage : 5
+Enemy team health : 10 Get damage : 10
+				Round 40
+Your team health : 0 Get damage : 5
+Enemy team health : 0 Get damage : 10
+draw

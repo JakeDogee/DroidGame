@@ -1,0 +1,46 @@
+Round 1
+Your robot : Name:Petro Health:190 Damage:7
+Enemy robot : Name:Slavik Health:93 Damage:10
+Round 2
+Your robot : Name:Petro Health:180 Damage:7
+Enemy robot : Name:Slavik Health:86 Damage:10
+Round 3
+Your robot : Name:Petro Health:170 Damage:7
+Enemy robot : Name:Slavik Health:79 Damage:10
+Round 4
+Your robot : Name:Petro Health:160 Damage:7
+Enemy robot : Name:Slavik Health:72 Damage:10
+Round 5
+Your robot : Name:Petro Health:150 Damage:7
+Enemy robot : Name:Slavik Health:65 Damage:10
+Round 6
+Your robot : Name:Petro Health:140 Damage:7
+Enemy robot : Name:Slavik Health:58 Damage:10
+Round 7
+Your robot : Name:Petro Health:130 Damage:7
+Enemy robot : Name:Slavik Health:51 Damage:10
+Round 8
+Your robot : Name:Petro Health:120 Damage:7
+Enemy robot : Name:Slavik Health:44 Damage:10
+Round 9
+Your robot : Name:Petro Health:110 Damage:7
+Enemy robot : Name:Slavik Health:37 Damage:10
+Round 10
+Your robot : Name:Petro Health:100 Damage:7
+Enemy robot : Name:Slavik Health:30 Damage:10
+Round 11
+Your robot : Name:Petro Health:90 Damage:7
+Enemy robot : Name:Slavik Health:23 Damage:10
+Round 12
+Your robot : Name:Petro Health:80 Damage:7
+Enemy robot : Name:Slavik Health:16 Damage:10
+Round 13
+Your robot : Name:Petro Health:70 Damage:7
+Enemy robot : Name:Slavik Health:9 Damage:10
+Round 14
+Your robot : Name:Petro Health:60 Damage:7
+Enemy robot : Name:Slavik Health:2 Damage:10
+Round 15
+Your robot : Name:Petro Health:50 Damage:7
+Enemy robot : Name:Slavik Health:0 Damage:10
+				YOU WON
